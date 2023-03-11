@@ -21,6 +21,7 @@ public class math_calc
 
 ```
 OUTPUT:
+
 ![q1](https://user-images.githubusercontent.com/93427086/224466645-b04c6282-94ac-44c6-8c78-6e302c0855de.png)
 
 ### 2. Write a Java program to compare two numbers
@@ -56,6 +57,7 @@ public class compare_num
 
 ```
 OUTPUT:
+
 ![q2](https://user-images.githubusercontent.com/93427086/224466762-2103818c-d7de-4256-a840-0848ce0d7bad.png)
 
 ### 3. Write a Java program to convert a string to an integer
@@ -75,6 +77,7 @@ public class typecasting
 
 ```
 OUTPUT:
+
 ![Q3](https://user-images.githubusercontent.com/93427086/224466827-f9375467-2351-4a87-bb9b-cf656e40c72b.png)
 
 ### 4. Java Program to find area of rhombus
@@ -96,6 +99,7 @@ public class rhombus
 
 ```
 OUTPUT:
+
 ![Q4](https://user-images.githubusercontent.com/93427086/224466920-fe505c5a-6178-4e38-b956-cb906522f667.png)
 
 ### 5. Write a Java program to find the number of days in a month
@@ -154,6 +158,7 @@ public class days
 
 ```
 OUTPUT:
+
 ![Q5](https://user-images.githubusercontent.com/93427086/224466979-dee0e719-13d1-4cc0-a202-16b57d49276f.png)
 
 ### 6. Write a Java program to print the even numbers from 1 to 20
@@ -176,6 +181,7 @@ public class even
 
 ```
 OUTPUT:
+
 ![Q6](https://user-images.githubusercontent.com/93427086/224467040-da94126a-5c5d-44a0-ba13-ef7e7e94d893.png)
 
 ### 7. Write a Java program to create a simple calculator
@@ -214,6 +220,7 @@ public class calculator
 }
 ```
 OUTPUT:
+
 ![Q7](https://user-images.githubusercontent.com/93427086/224467203-6228a62d-7fab-48bf-9ad5-ca87650cbad9.png)
 
 ### 8. Write a Java program to print multiplication table of given number
@@ -238,6 +245,7 @@ public class multiplication_table
 
 ```
 OUTPUT: 
+
 ![q8](https://user-images.githubusercontent.com/93427086/224467300-d955df57-2b15-4c0b-ae5e-364bd42a09a0.png)
 
 
